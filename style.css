@@ -1,0 +1,20 @@
+.underweight {
+color: blue;
+}
+
+.normal {
+color: green;
+}
+
+.overweight{
+color: orange;
+
+}
+
+.obese{
+color: red;
+
+}
+#output {
+    display: none;
+}
